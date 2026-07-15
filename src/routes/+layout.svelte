@@ -201,7 +201,7 @@
       <div class="socials">
         <a
           aria-label="LinkedIn"
-          href="https://www.linkedin.com/in/althruist/"
+          href="/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -221,7 +221,7 @@
         </a>
         <a
           aria-label="Audiotool"
-          href="https://www.audiotool.com/user/Akridiki"
+          href="/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -242,7 +242,7 @@
 
         <a
           aria-label="YouTube"
-          href="https://youtube.com/@althruistic"
+          href="https://www.youtube.com/feed/you"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -263,7 +263,7 @@
 
         <a
           aria-label="Instagram"
-          href="https://instagram.com/althruistic_"
+          href="https://www.instagram.com/kinemon973/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -283,7 +283,7 @@
         </a>
         <a
           aria-label="GitHub"
-          href="https://github.com/althruist"
+          href="https://github.com/Hanzo8885"
           target="_blank"
           rel="noopener noreferrer"
         >
