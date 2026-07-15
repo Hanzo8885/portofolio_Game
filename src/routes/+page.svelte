@@ -153,7 +153,7 @@
   });
 </script>
 
-<title>althruist:portfolio</title>
+<title>Alfikar:portfolio</title>
 <div id="content">
   <PageHeader id="welcomeHeader">
     <div class="video-container">
@@ -163,7 +163,7 @@
     </div>
     <div class="headerContent">
       <h1 class="emphasis">
-        Hiya, i'm <span class="name">Kieran</span>!
+        Hiya, i'm <span class="name">Alfikar</span>!
       </h1>
       <h2 class="emphasis">
         A Game Developer, Musician, Content Creator<br />
@@ -186,7 +186,7 @@
           <source src={aboutVideoSource} type="video/mp4" />
         </video>
         <p id="aboutText">
-          I'm <span class="highlightedText">Kieran</span>, known as
+          I'm <span class="highlightedText">Alfikar</span>, known as
           <span class="highlightedText">althruist</span>
           online. I am an 18 y/o in Malta, reading for
           <span class="highlightedText"
