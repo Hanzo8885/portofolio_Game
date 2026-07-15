@@ -22,7 +22,7 @@
   import headerVideoDay from "$lib/videos/day.mp4";
   import headerVideoNight from "$lib/videos/night.mp4";
   import aboutVideoDay from "$lib/videos/idleday.mp4";
-  import aboutVideoNight from "$lib/videos/idlenight.mp4";
+
 
   let video;
   let aboutVideo;
