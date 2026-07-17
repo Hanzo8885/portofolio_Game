@@ -174,8 +174,7 @@
       </h2>
     </div>
   </PageHeader>
-
-  <section id="aboutSection">
+<section id="aboutSection">
     <h1 class="sectionTitle">- Who am I? -</h1>
     <Card hasSlug={false} className="aboutCard">
       <div id="aboutLayout">
@@ -192,18 +191,19 @@
           <source src={aboutVideoSource} type="video/mp4" />
         </video>
         <p id="aboutText">
-          I'm <span class="highlightedText">Alfikar</span>, known as
-          <span class="highlightedText">althruist</span>
-          online. I am an 18 y/o in Malta, reading for
-          <span class="highlightedText"
-            >Bachelors of Science (Hons) in Digital Games Development.</span
-          ><br />I like to do a variety of things; <br /><br /> Ranging from
-          <span class="highlightedText">3D Art/Animation </span> (using
-          Blender), <span class="highlightedText"> Music-Making, Coding </span>
-          in several languages,
-          <span class="highlightedText">
-            Concept Art, Sound Design, Photography</span
-          >.. anything creative you can think of I probably do it!
+          I'm <span class="highlightedText">Alfikar</span>, a
+          <span class="highlightedText">17-year-old</span> living my best life
+          with three main passions. <br /><br />
+          
+          First up: <span class="highlightedText">music</span>. Whether it's
+          discovering new artists or vibing to my favorite tracks, music is
+          always playing in my head. Then there's
+          <span class="highlightedText">jogging</span> — my go-to way to clear
+          my mind, get some fresh air, and stay in shape. And finally,
+          <span class="highlightedText">swimming</span>, which is basically my
+          happy place. There's nothing quite like diving into water to forget
+          about the world for a while! Together, these three things keep me
+          balanced and happy.
         </p>
       </div>
     </Card>
