@@ -194,7 +194,7 @@
     <div bind:this={footer} class="footer card">
       <p class="altText">
         this website is homemade :] • althruist 2025-2026 • <a
-          href="https://github.com/althruist/Portfolio"
+          href="https://github.com/Hanzo8885/portofolio_Game"
           target="_blank">check out the repository!</a
         >
       </p>
